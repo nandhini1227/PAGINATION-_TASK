@@ -1,0 +1,30 @@
+body {
+    background-color: whitesmoke;
+    color: black;
+  }
+  
+  #nav-bar {
+    position: relative;
+    top: 18cm;
+    background-color: rgb(183, 235, 235);
+    
+  }
+  
+  #description {
+    font-size: medium;
+    font-family:  sans-serif;
+    color: rgb(231, 142, 32);
+  }
+  #table-head {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:  sans-serif;
+    
+  }
+  
+  #t-b{
+    color: black;
+    text-align: center;
+  }
